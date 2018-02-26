@@ -37,6 +37,7 @@ This is simple [tox](tox.chat) client written in **go**. It may still have some 
 9. To write, just type
 
 <br>
+
 ### Some instructions about usage
 1. To change profile picture go to settings and just click your current avatar.
 2. To write just type, to hide writing box, press **Esc**
@@ -61,6 +62,7 @@ While installing **gotk3**, using **go get** or **go install**, it's very import
 Remember to put binary file back in uAvion directory, before running it.
 
 <br>
+
 ### Project future
 To be honest I don't know if there's a point
 continuing this project as there are other software,
