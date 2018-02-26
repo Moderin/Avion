@@ -10,13 +10,16 @@ This is simple [tox](tox.chat) client written in **go**. It may still have some 
 ![](screenshots/screenshot_1.png)
 
 <br>
+
 ## Settings
 
 ![](screenshots/screenshot_2.png)
+
 <br>
 
 
 <br>
+
 ### How to try it
 #### You need linux and it should be 64 bit
 ##### *(if you're very patient you can try to compile it on your own, to 32bit)*
