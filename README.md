@@ -1,7 +1,7 @@
 # Avion
 *Simple instant messanger*
 
-This is simple [tox](tox.chat) client written in **go**. It may still have some bugs. But if you like it, you're welcome to give it a try :)
+This is simple [tox](https://www.tox.chat) client written in **go**. It may still have some bugs. But if you like it, you're welcome to give it a try :)
 <br>
 <br>
 
